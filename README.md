@@ -63,4 +63,4 @@ Deploy your app on GitHub:
 git push origin gh-pages
 ```
 
-Your app will be visible shortly at `https://YOUR_GITHUB_NICKNAME.github.io/taxi-fare-interface`.
+Your app will be visible shortly at `https://peperklipp.github.io/taxi-fare-interface`.
